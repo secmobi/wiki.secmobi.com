@@ -1,56 +1,54 @@
-Welcome! 
+# Home - the SecMobi Wiki
 
-The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it. 
+Welcome! The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it. 
 
 We collect all kinds of resources for mobile security research. You're welcome to edit all existing pages :)
 
--Claud
-
-You can also find some [[other collections on mobile security resources]]. 
+You can also find some [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/other-collections-on-mobile-security-resources.md). 
 
 ### Security Tools
-* [[Android Static Analysis Tool]]
-* [[Android Dynamic Analysis Tools]]
-* [[Android Integrated Analysis Systems]]
-* [[Android System Resources]]
-* [[Android Vulnerability Mining Tools]]
-* [[Android Malware Detection Tools]]
-* [[Android Forensics Tools]]
-* [[Android Cracking and Protection Tools]]
-* [[Android Applications for Security]]
-* [[iOS Static Analysis Tools]]
-* [[iOS Dynamic Analysis Tools]]
-* [[iOS Applications and Native Utilities]]
-* [[iOS Vulnerability Mining Tools]]
-* [[iOS Forensics Tools]]
+* [Android Static Analysis Tool](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Static-Analysis-Tool.md)
+* [Android Dynamic Analysis Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Dynamic-Analysis-Tools.md)
+* [Android Integrated Analysis Systems](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Integrated-Analysis-Systems.md)
+* [Android System Resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-System-Resources.md)
+* [Android Vulnerability Mining Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Vulnerability-Mining-Tools.md)
+* [Android Malware Detection Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Malware-Detection-Tools.md)
+* [Android Forensics Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Forensics-Tools.md)
+* [Android Cracking and Protection Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Cracking-and-Protection-Tools.md)
+* [Android Applications for Security](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Applications-for-Security.md)
+* [iOS Static Analysis Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/iOS-Static-Analysis-Tools.md)
+* [iOS Dynamic Analysis Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/iOS-Dynamic-Analysis-Tools.md)
+* [iOS Applications and Native Utilities](https://github.com/secmobi/wiki.secmobi.com/blob/master/iOS-Applications-and-Native-Utilities.md)
+* [iOS Vulnerability Mining Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/iOS-Vulnerability-Mining-Tools.md)
+* [iOS Forensics Tools](https://github.com/secmobi/wiki.secmobi.com/blob/master/iOS-Forensics-Tools.md)
 
 ### Publications
-* [[Books]]
-* [[Academic Papers]]
-* [[Conference Presentations]]
-* [[Technical Reports]]
-* [[Whitepapers]]
-* [[Tutorials]]
+* [Books](https://github.com/secmobi/wiki.secmobi.com/blob/master/Books.md)
+* [Academic Papers](https://github.com/secmobi/wiki.secmobi.com/blob/master/Academic-Papers.md)
+* [Conference Presentations](https://github.com/secmobi/wiki.secmobi.com/blob/master/Conference-Presentations.md)
+* [Technical Reports](https://github.com/secmobi/wiki.secmobi.com/blob/master/Technical-Reports.md)
+* [Whitepapers](https://github.com/secmobi/wiki.secmobi.com/blob/master/Whitepapers.md)
+* [Tutorials](https://github.com/secmobi/wiki.secmobi.com/blob/master/Tutorials.md)
 
 ### Progresses
-* [[Blogs]]
-* [[News Sites]]
-* [[Academic Conferences]]
-* [[Industrial Conferences]]
+* [Blogs](https://github.com/secmobi/wiki.secmobi.com/blob/master/Blogs.md)
+* [News Sites](https://github.com/secmobi/wiki.secmobi.com/blob/master/News-Sites.md)
+* [Academic Conferences](https://github.com/secmobi/wiki.secmobi.com/blob/master/Academic-Conferences.md)
+* [Industrial Conferences](https://github.com/secmobi/wiki.secmobi.com/blob/master/Industrial-Conferences.md)
 
 ### People
-* [[Communities]]
-* [[Researchers]]
-* [[Companies]]
+* [Communities](https://github.com/secmobi/wiki.secmobi.com/blob/master/Communities.md)
+* [Researchers](https://github.com/secmobi/wiki.secmobi.com/blob/master/Researchers.md)
+* [Companies](https://github.com/secmobi/wiki.secmobi.com/blob/master/Companies.md)
 
 ### Projects
-* [[Open Source Projects]]
+* [Open Source Projects](https://github.com/secmobi/wiki.secmobi.com/blob/master/Open-Source-Projects.md)
 
 ### Vulnerabilities
 
 ### Malware
 
-[[Acknowledgements]]
+[Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/Acknowledgements.md)
 
 #### Contacts
 Email: <secmobi@gmail.com>
