@@ -1,183 +1,144 @@
 ## Books
 
+#### Exploring SE for Android
+by William Confer and William Roberts (2015)
+
+http://www.amazon.com/dp/1784390593/
+
+#### The Mobile Application Hacker's Handbook
+by Dominic Chell, Tyrone Erasmus, Shaun Colley and Ollie Whitehouse(2015)
+
+http://www.amazon.com/dp/1118958500/
+
 #### Android Malware and Analysis
-Author: Ken Dunham, Shane Hartman, Manu Quintans, Jose Andre Morales, Tim Strazzere
+by Ken Dunham, Shane Hartman, Manu Quintans, Jose Andre Morales and Tim Strazzere (2014)
 
-Year: 2014
-
-Link: http://www.crcpress.com/product/isbn/9781482252194
+http://www.amazon.com/dp/1482252198/
 
 #### Practical Mobile Forensics
-Author: Satish Bommisetty, Rohit Tamma, Heather Mahalik
+by Satish Bommisetty, Rohit Tamma and Heather Mahalik (2014)
 
-Year: 2014
-
-Link: https://www.packtpub.com/application-development/practical-mobile-forensics
+http://www.amazon.com/dp/1783288310/
 
 #### Android Security (and Not) Internals
-Author: Yury Zhauniarovich
+by Yury Zhauniarovich (2014)
 
-Year: 2014
-
-Link(open-source): http://www.zhauniarovich.com/files/asani/asani.pdf
-
+http://www.zhauniarovich.com/files/asani/asani.pdf
 
 #### Android Internals: A Confectioner's Cookbook
-Author: Jonathan Levin
+by Jonathan Levin (2014)
 
-Year 2014
-
-Link: http://newandroidbook.com/
+http://newandroidbook.com/
 
 #### Android Security Internals
-Author: Nikolay Elenkov
+by Nikolay Elenkov (2014)
 
-Year: 2014
-
-Link: http://www.nostarch.com/androidsecurity
+http://www.amazon.com/dp/1593275811/
 
 #### Android Hacker's Handbook
-Author: Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva, Stephen A. Ridley, Georg Wicherski
+by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva, Stephen A. Ridley and Georg Wicherski (2014)
 
-Year: 2014
+http://www.amazon.com/dp/111860864X/
 
-Link: http://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X
 #### Android Malware
-Author: Xuxian Jiang, Yajin Zhou
+by Xuxian Jiang and Yajin Zhou (2013)
 
-Year: 2013
+http://www.amazon.com/dp/1461473934/
 
-http://www.amazon.com/Android-Malware-SpringerBriefs-Computer-Science/dp/1461473934/
 #### Android Application Security Essentials
-Author: Pragati Rai
+by Pragati Rai (2013)
 
-Year: 2013
+http://www.amazon.com/dp/1849515603/
 
-Link: http://www.amazon.com/Android-Application-Security-Essentials-Pragati/dp/1849515603/
 #### Hacking Exposed Mobile Security Secrets & Solutions
+by Neil Bergman, etc al (2013)
 
-Author: Neil Bergman, etc al
+http://www.amazon.com/dp/0071817018/
 
-Year: 2013
-
-Link: http://www.amazon.com/Hacking-Exposed-Security-Secrets-Solutions/dp/0071817018/
 #### Android Security: Attacks and Defenses
-Author: Anmol Misra, Abhishek Dubey
+by Anmol Misra and Abhishek Dubey (2013)
 
-Year: 2013
+http://www.amazon.com/dp/1439896461/
 
-Link: http://www.amazon.com/Android-Security-Defenses-Anmol-Misra/dp/1439896461/
-
-Website: http://androidinsecurity.com
+http://androidinsecurity.com
 
 #### Mobile Phone Security and Forensics: A Practical Approach
-Author: I.I. Androulidakis
+by I.I. Androulidakis (2012)
 
-Year: 2012
-
-Link: http://www.amazon.com/Mobile-Phone-Security-Forensics-SpringerBriefs/dp/1461416493/
+http://www.amazon.com/dp/1461416493/
 
 #### Android Apps Security
-Author: Sheran Gunasekera
+by Sheran Gunasekera (2012)
 
-Year: 2012
+http://www.amazon.com/dp/1430240628
 
-Link: http://www.amazon.com/Android-Apps-Security-Sheran-Gunasekera/dp/1430240628
+#### XDA Developers' Android Hacker's Toolkit
+by Jason Tyler and Will Verduzco (2012)
 
-#### Android Forensics: Investigation, Analysis and Mobile Security for Google Android
-Author: Andrew Hoog
-
-Year: 2011
-
-Link: http://www.amazon.com/Android-Forensics-Investigation-Analysis-Security/dp/1597496510/
-
-#### Application Security for the Android Platform: Processes, Permissions, and Other Safeguards
-Author: Jeff Six
-
-Year: 2011
-
-Link: http://www.amazon.com/Application-Security-Android-Platform-Permissions/dp/1449315070/
+http://www.amazon.com/XDA-Developers-Android-Hackers-Toolkit/dp/1119951380/
 
 #### Decompiling Android
-Author: Godfrey Nolan
+by Godfrey Nolan (2012)
 
-Year: 2012
-
-Link: http://www.amazon.com/Decompiling-Android-Godfrey-Nolan/dp/1430242485/
-
-#### Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It
-Author: Jonathan Zdziarski
-
-Year: 2012
-
-Link: http://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746/
-
-#### iOS Forensic Analysis: for iPhone, iPad and iPod Touch
-Author: Sean Morrissey
-
-Year: 2010
-
-Link: http://www.amazon.com/iOS-Forensic-Analysis-iPhone-Professionals/dp/1430233427/
-
-#### iPhone and iOS Forensics: Investigation, Analysis and Mobile Security for Apple iPhone, iPad and iOS Devices
-Author: Andrew Hoog, Katie Strzempka
-
-Year: 2011
-
-Link: http://www.amazon.com/iPhone-iOS-Forensics-Investigation-Analysis/dp/1597496596/
+http://www.amazon.com/dp/1430242485/
 
 #### iOS Hacker's Handbook
-Author: Charlie Miller, Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philipp Weinmann
+by Charlie Miller, Dion Blazakis, Dino DaiZovi, Stefan Esser, Vincenzo Iozzo and Ralf-Philipp Weinmann (2012)
 
-Year: 2012
+http://www.amazon.com/dp/1118204123/
 
-Link: http://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/
+#### Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It
+by Jonathan Zdziarski (2012)
+
+http://www.amazon.com/dp/1449318746/
+
+#### Mobile Application Security
+by Himanshu Dwivedi, Chris Clark and David Thiel (2012)
+
+http://www.amazon.com/dp/0071633561/
+
+#### Android Forensics: Investigation, Analysis and Mobile Security for Google Android
+by Andrew Hoog (2011)
+
+http://www.amazon.com/dp/1597496510/
+
+#### Application Security for the Android Platform: Processes, Permissions, and Other Safeguards
+by Jeff Six (2011)
+
+http://www.amazon.com/dp/1449315070/
+
+#### iPhone and iOS Forensics: Investigation, Analysis and Mobile Security for Apple iPhone, iPad and iOS Devices
+by Andrew Hoog, Katie Strzempka (2011)
+
+http://www.amazon.com/dp/1597496596/
+
+#### Android Security 安全なアプリケーションを作成するために
+by タオソフトウェア株式会社 (2011)
+
+http://www.amazon.co.jp/dp/4844331345/
+
+#### iOS Forensic Analysis: for iPhone, iPad and iPod Touch
+by Sean Morrissey (2010)
+
+http://www.amazon.com/dp/1430233427/
 
 #### Embedded Java Security: Security for Mobile Devices
 
-Author: Mourad Debbabi, Mohamed Saleh, Chamseddine Talhi and Sami Zhioua
+by Mourad Debbabi, Mohamed Saleh, Chamseddine Talhi and Sami Zhioua (2010)
 
-Year: 2010
-
-Link: http://www.amazon.com/Embedded-Java-Security-Mobile-Devices/dp/1849966230/
-
-#### Mobile Application Security
-Author: Himanshu Dwivedi, Chris Clark and David Thiel
-
-Year: 2012
-
-Link: http://www.amazon.com/Mobile-Application-Security-Himanshu-Dwivedi/dp/0071633561/
-
-#### XDA Developers' Android Hacker's Toolkit
-Author: Jason Tyler, Will Verduzco
-
-Year: 2012
-
-Link: http://www.amazon.com/XDA-Developers-Android-Hackers-Toolkit/dp/1119951380/
-#### Mobile Malware Attacks and Defense
-Author: Ken Dunham
-
-Year: 2008
-
-Link: http://www.amazon.com/Mobile-Malware-Attacks-Defense-Dunham/dp/1597492981/
-
-#### iPhone Forensics: Recovering Evidence, Personal Data, and Corporate Assets
-Author: Jonathan Zdziarski
-
-Year: 2008
-
-Link: http://www.amazon.com/iPhone-Forensics-Recovering-Evidence-Corporate/dp/0596153589/
-
-#### Android Security 安全なアプリケーションを作成するために
-Author: タオソフトウェア株式会社
-
-Year: 2011
-
-Link: http://www.amazon.co.jp/Android-Security-安全なアプリケーションを作成するために-タオソフトウェア株式会社/dp/4844331345/
+http://www.amazon.com/dp/1849966230/
 
 #### Professional Cocoa Application Security
-Author: Graham J. Lee
+by Graham J. Lee (2010)
 
-Year: 2010
+http://www.amazon.com/dp/0470525959/
 
-LinK: http://www.amazon.com/Professional-Cocoa-Application-Security-Guides/dp/0470525959/
+#### Mobile Malware Attacks and Defense
+by Ken Dunham (2008)
+
+http://www.amazon.com/dp/1597492981/
+
+#### iPhone Forensics: Recovering Evidence, Personal Data, and Corporate Assets
+by Jonathan Zdziarski (2008)
+
+http://www.amazon.com/dp/0596153589/
