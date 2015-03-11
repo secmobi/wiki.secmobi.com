@@ -39,9 +39,6 @@ Find more [other collections on mobile security resources](https://github.com/se
 * [Researchers](https://github.com/secmobi/wiki.secmobi.com/blob/master/Researchers.md)
 * [Companies](https://github.com/secmobi/wiki.secmobi.com/blob/master/Companies.md)
 
-### Projects
-* [Open Source Projects](https://github.com/secmobi/wiki.secmobi.com/blob/master/Open-Source-Projects.md)
-
 ### Vulnerabilities
 
 ### Malware
