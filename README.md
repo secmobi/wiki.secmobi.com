@@ -2,9 +2,7 @@
 
 The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it in anytime. 
 
-We collect all kinds of resources for mobile security research. You're welcome to edit all existing pages :)
-
-You can also find some [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/other-collections-on-mobile-security-resources.md). 
+Find more [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/other-collections-on-mobile-security-resources.md). 
 
 ### Security Tools
 * [Android Static Analysis Tool](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Static-Analysis-Tool.md)
@@ -49,5 +47,6 @@ You can also find some [other collections on mobile security resources](https://
 ### Malware
 
 ### About The SecMobi Wiki
-* [Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/Acknowledgements.md)
+* [Make your contributions](https://github.com/secmobi/wiki.secmobi.com/blob/master/CONTRIBUTING.md)
+* [Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/ACKNOWLEDGEMENTS.md)
 
