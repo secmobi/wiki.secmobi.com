@@ -1,8 +1,8 @@
 ## The SecMobi Wiki
 
-The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it in anytime. 
+The SecMobi Wiki has been moved here now. You can still use <http://wiki.secmobi.com> to visit it. 
 
-Find more [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/other-collections-on-mobile-security-resources.md). 
+Find more [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/Other-Collections-on-Mobile-Security-Resources.md). 
 
 ### Security Tools
 * [Android Static Analysis Tool](https://github.com/secmobi/wiki.secmobi.com/blob/master/Android-Static-Analysis-Tool.md)
