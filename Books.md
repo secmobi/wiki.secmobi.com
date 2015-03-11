@@ -62,6 +62,11 @@ http://www.amazon.com/dp/1439896461/
 
 http://androidinsecurity.com
 
+#### Android软件安全与逆向分析
+by 丰生强 (2013)
+
+http://www.amazon.cn/dp/B00BMTVUGG/
+
 #### Mobile Phone Security and Forensics: A Practical Approach
 by I.I. Androulidakis (2012)
 
@@ -75,7 +80,7 @@ http://www.amazon.com/dp/1430240628
 #### XDA Developers' Android Hacker's Toolkit
 by Jason Tyler and Will Verduzco (2012)
 
-http://www.amazon.com/XDA-Developers-Android-Hackers-Toolkit/dp/1119951380/
+http://www.amazon.com/dp/1119951380/
 
 #### Decompiling Android
 by Godfrey Nolan (2012)
