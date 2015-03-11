@@ -1,16 +1,15 @@
-### Reverse Engineering Resources (for Mac OS X and iOS)
-http://samdmarshall.com/re.html
+## iOS Static Analysis Tools
 
-### class_dump_z
+#### class_dump_z
 http://code.google.com/p/networkpx/wiki/class_dump_z
 
-### otool
+#### otool
 
-### otx
+#### otx
 http://otx.osxninja.com/
 
-### IDA Pro
+#### IDA Pro
 http://www.hex-rays.com/products/ida/index.shtml
 
-### Hopper
+#### Hopper
 http://hopperapp.com/

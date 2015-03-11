@@ -1,10 +1,12 @@
-## Obfuscation and Protection
+## Android Cracking and Protection Tools
 
-### ProGuard
+### Obfuscation and Protection
+
+#### ProGuard
 http://proguard.sourceforge.net
 
-### DexGuard
+#### DexGuard
 http://www.saikoa.com/dexguard
 
-### APK Protect
+#### APK Protect
 http://www.apkprotect.com

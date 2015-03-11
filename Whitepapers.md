@@ -1,4 +1,6 @@
-## Official Documents or Standards
+## Whitepapers
+
+### Official Documents or Standards
 Android Security Overview
 http://source.android.com/tech/security/index.html
 
@@ -8,7 +10,7 @@ http://developer.android.com/guide/practices/security.html
 Dalvik Opcodes
 http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
 
-## Best Practices and Guidelines
+### Best Practices and Guidelines
 OWASP Top Ten Mobile Controls
 https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls
 
@@ -23,7 +25,7 @@ Exploring The OWASP Mobile Top 10
 http://h30499.www3.hp.com/t5/Fortify-Application-Security/Exploring-The-OWASP-Mobile-Top-10-M1-Insecure-Data-Storage/ba-p/5904609
 http://h30499.www3.hp.com/t5/Fortify-Application-Security/Exploring-The-OWASP-Mobile-Top-10-M3-Insufficient-Transport/ba-p/5966473
 
-## Others
+### Others
 
 Jasim User Guide
 http://jasmin.sourceforge.net/guide.html
@@ -36,6 +38,7 @@ http://www.mcafee.com/us/resources/white-papers/foundstone/wp-pen-testing-iphone
 
 Android Security Open Problems
 http://www.mindmeister.com/248162543/android-security-open-problems
-## Academic Papers
+
+### Academic Papers
 
 * [[http://research.microsoft.com/en-us/people/sagarwal/osdi12-final91.pdf|AppInsight: Mobile App Performance Monitoring in the Wild]]

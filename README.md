@@ -1,6 +1,6 @@
-# Home - the SecMobi Wiki
+## The SecMobi Wiki
 
-Welcome! The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it. 
+The SecMobi Wiki has been migrated to Github now. You can still use <http://wiki.secmobi.com> to visit it in anytime. 
 
 We collect all kinds of resources for mobile security research. You're welcome to edit all existing pages :)
 
@@ -48,9 +48,6 @@ You can also find some [other collections on mobile security resources](https://
 
 ### Malware
 
-[Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/Acknowledgements.md)
+### About The SecMobi Wiki
+* [Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/Acknowledgements.md)
 
-#### Contacts
-Email: <secmobi@gmail.com>
-
-[Submit an issue here](https://github.com/secmobi/wiki.secmobi.com/issues)
