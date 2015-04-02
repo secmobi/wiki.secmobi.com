@@ -1,6 +1,7 @@
 ## Android Dynamic Analysis Tools
 
 ### Debugging
+
 #### AndBug
 https://github.com/swdunlop/AndBug
 
@@ -17,7 +18,8 @@ An Android cross platform gdb wrapper.
 #### GDB 7.4.1 for Android
 http://gnutoolchains.com/android/
 
-## Instrumentation
+### Instrumentation
+
 #### Xposed
 http://forum.xda-developers.com/showthread.php?t=1574401
 
@@ -38,7 +40,12 @@ https://github.com/AndroidHooker/hooker
 
 #### libandroid_injector
 https://code.google.com/p/libandroidinjector/
-## Sandbox
+
+#### Frida
+http://www.frida.re/
+
+### Sandbox
+
 #### DroidBox
 http://code.google.com/p/droidbox/
 
@@ -98,13 +105,14 @@ report: http://apkscan.nviso.be/reports/NVISO%20ApkScan%20-%20Android%20malware%
 
 blog: http://blog.nviso.be/
 
-
 #### A5
 http://dogo.ece.cmu.edu/a5/
 
 #### Privacy Grade
 http://privacygrade.org/
-## Environment Faker
+
+### Environment Faker
+
 #### RootCloak Plus (Cydia)
 http://devadvance.com/rootcloakplus/
 
@@ -116,7 +124,8 @@ https://github.com/devadvance/rootcloak
 #### DeviceFaker
 http://site.kbc-brick.org/app/devicefaker
 
-## Networking
+### Networking
+
 #### tcpdump
 http://www.tcpdump.org
 
@@ -139,8 +148,10 @@ http://www.charlesproxy.com
 http://fiddler2.com
 
 ### Unclassified =
+
 #### fsdiff
 https://github.com/wuntee/androidAuditTools/blob/master/bin/fsdiff.rb
+
 #### otertool
 https://github.com/wuntee/otertool
 
