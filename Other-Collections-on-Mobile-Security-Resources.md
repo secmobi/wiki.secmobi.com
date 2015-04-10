@@ -17,3 +17,6 @@ https://www.theiphonewiki.com/
 
 #### Reverse Engineering Resources (for Mac OS X and iOS)
 http://samdmarshall.com/re.html
+
+#### Mobile Security
+https://mobile-security.zeef.com/oguzhan.topgul
