@@ -1,5 +1,10 @@
 ## Books
 
+#### Learning Android Forensics
+by Rohit Tamma, Donnie Tindall (2015)
+
+http://www.amazon.com/dp/1782174575/
+
 #### Exploring SE for Android
 by William Confer and William Roberts (2015)
 
@@ -9,6 +14,11 @@ http://www.amazon.com/dp/1784390593/
 by Dominic Chell, Tyrone Erasmus, Shaun Colley and Ollie Whitehouse(2015)
 
 http://www.amazon.com/dp/1118958500/
+
+#### Learning Pentesting for Android Devices
+by Aditya Gupta (2014)
+
+http://www.amazon.com/dp/1783288981/
 
 #### Android Malware and Analysis
 by Ken Dunham, Shane Hartman, Manu Quintans, Jose Andre Morales and Tim Strazzere (2014)
