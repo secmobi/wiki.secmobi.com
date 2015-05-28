@@ -50,6 +50,11 @@ by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva, Stephen A. Ridley a
 
 http://www.amazon.com/dp/111860864X/
 
+#### Android Security Cookbook
+by Keith Makan , Scott Alexander-Bown (2013)
+
+http://www.amazon.com/dp/1782167161/
+
 #### Android Malware
 by Xuxian Jiang and Yajin Zhou (2013)
 
