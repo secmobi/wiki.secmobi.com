@@ -1,8 +1,12 @@
 ## iOS Forensics Tools
 
+#### osxcollector
+A forensic evidence collection & analysis toolkit for OS X
+
+https://github.com/Yelp/osxcollector
+
 #### FTk
 #### Cellebrite
-#### file,strings,less,dd,md5sum
 #### Sleuthkit
 #### mac-robber
 #### CelleBrite UFED
