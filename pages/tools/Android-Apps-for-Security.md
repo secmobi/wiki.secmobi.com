@@ -5,8 +5,10 @@ https://guardianproject.info
 
 #### dex-editor
 https://code.google.com/p/dex-editor/
+
 #### Revenssis
 http://www.revenssis.com
+
 #### android-security-list
 https://code.google.com/p/android-security-list/wiki/AndroidSecurityList
 
@@ -45,3 +47,19 @@ http://www.isecpartners.com/mobile-security-tools/package-play.html
 
 #### Manifest Explorer
 http://www.isecpartners.com/mobile-security-tools/manifest-explorer.html
+
+#### Android-IMSI-Catcher-Detector
+AIMSICD against IMSI-Catcher, StingRay and silent SMS!
+
+https://github.com/SecUpwN/Android-IMSI-Catcher-Detector
+
+#### darshak
+Darshak is an application serving two primary usage: detecting any suspicious activity of being tracked via cellular network for example Silent SMS; to assess security capabilities of your current cellular provider in realtime.
+
+https://github.com/darshakframework/darshak
+
+#### DroidSniff
+DroidSniff is an Android app for Security analysis in wireless networks and capturing facebook, twitter, linkedin and other accounts.
+
+https://github.com/evozi/DroidSniff
+
