@@ -1,5 +1,4 @@
-## Other Collections on Mobile Security Resources
-
+## Other Mobile Security Wikis
 #### droidsec.org 
 wiki: http://www.droidsec.org/wiki/
 
