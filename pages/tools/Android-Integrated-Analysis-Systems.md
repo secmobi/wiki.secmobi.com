@@ -42,6 +42,18 @@ androguard is a toolset for reversing APK, DEX and ODEX files. Its main features
 
 License: LGPL
 
+#### aikinci / androguard
+A dockerized androguard installation
+https://github.com/aikinci/androguard
+
+#### dockerfile-androguard
+docker file for use with androguard python android app analysis tool
+https://github.com/dweinstein/dockerfile-androguard
+
+#### docker-androguard
+A dockerized androguard installation
+https://github.com/adepasquale/docker-androguard
+
 #### APKinspector
 http://code.google.com/p/apkinspector/
 

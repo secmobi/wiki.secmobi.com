@@ -13,6 +13,8 @@ http://www.bitpim.org
 https://github.com/viaforensics/android-forensics
 
 #### ADEL
+https://github.com/mspreitz/ADEL
+
 http://forensics.spreitzenbarth.de/adel/
 
 Project: http://www1.informatik.uni-erlangen.de/node/36
@@ -38,5 +40,7 @@ http://code.google.com/p/unyaffs/
 #### pySimReader
 http://www.isecpartners.com/mobile-security-tools/pysimreader.html
 
-#### p2p-adb
-https://github.com/kosborn/p2p-adb/
+#### Fino
+https://github.com/sysdream/fino
+
+http://events.ccc.de/congress/2012/Fahrplan/attachments/2237_SmallFootprintInspectionAndroid-slides.pdf

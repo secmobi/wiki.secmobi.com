@@ -77,10 +77,17 @@ Opensource tools to disasm, debug, analyze, manipulate binary files. Support mul
 #### AppInspect
 http://www.privateerlabs.net/products/appinspect
 
+### ART OAT Format
+#### oat2dex-python
+Extract DEX files from an ART ELF binary
+
+https://github.com/jakev/oat2dex-python
+
 ### Dalvik Decompilation
 
 #### jadx
 https://github.com/skylot/jadx
+
 #### dex2jar
 http://code.google.com/p/dex2jar/
 
@@ -94,16 +101,37 @@ dex2jar contains 4 components:
 #### dara
 http://siis.cse.psu.edu/dare/index.html
 
+#### enjarify
+Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode.
+
+https://github.com/google/enjarify
+
 #### ded
 http://siis.cse.psu.edu/ded/
 
 ded is a project which aims at decompiling Android applications. The ded tool retargets Android applications in .dex format to traditional .class files. These .class files can then be processed by existing Java tools, including decompilers.
+
+#### bytecode-viewer
+A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+
+https://github.com/Konloch/bytecode-viewer
 
 #### dexinspector
 http://zairon.wordpress.com/dexinspector/
 
 #### JEB
 http://www.android-decompiler.com
+
+#### jebPlugins
+Various Jeb plugins, including obfuscation restore
+
+https://github.com/flankerhqd/jebPlugins
+
+#### JEB_Scripts
+https://github.com/bkerler/JEB_Scripts
+
+#### myJEBPlugins
+https://github.com/CunningLogic/myJEBPlugins
 
 #### undx
 http://undx.sourceforge.net
@@ -117,6 +145,7 @@ As its name, dex-decompiler is a decompiler of DEX file.
 
 #### Xenotix-APK-Decompiler
 https://github.com/ajinabraham/Xenotix-APK-Decompiler
+
 #### AndroChef
 http://dj.navexpress.com/androchef.htm
 
@@ -128,6 +157,7 @@ JD-GUI is a standalone graphical utility that displays Java source codes of “.
 
 #### Luyten
 https://github.com/deathmarine/Luyten
+
 #### JAD
 http://www.varaneckas.com/jad/
 
@@ -176,6 +206,11 @@ http://radare.org
 
 Opensource tools to disasm, debug, analyze, manipulate binary files. Support multi-architecture and multi-platform.
 
+#### miasm
+Reverse engineering framework in Python
+
+https://github.com/cea-sec/miasm
+
 #### smiasm
 http://code.google.com/p/smiasm/
 
@@ -190,6 +225,8 @@ https://github.com/jbremer/darm
 http://darm.re
 
 #### Capstone
+Capstone disassembly/disassembler framework: Core (Arm, Arm64, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml)
+
 http://www.capstone-engine.org/
 
 ### ARM Decompilation
@@ -240,11 +277,43 @@ https://github.com/devunwired/apktools
 
 #### axml
 https://code.google.com/p/axml/
+
+#### Android-FixResources
+Python script to resolve resource identifiers in disassembled (smali) Android Applications
+
+https://github.com/jakev/Android-FixResources
+
+#### AndroidManifestFix
+AndroidManifest.xml文件修复工具。用于修复这个文件中属性名称缺失的问题。
+
+https://github.com/zylc369/AndroidManifestFix
+
+#### AmBinaryEditor
+AndroidManifest Binary Editor
+
+https://github.com/enimey/AmBinaryEditor
+
+#### axmlprinter
+Library for parsing and printing compiled Android manifest files
+
+https://github.com/rednaga/axmlprinter
+
 ### Others
 #### ApkAnalyser
 https://github.com/sonyxperiadev/ApkAnalyser
 
 ApkAnalyser is a static, virtual analysis tool for examining and validating the development work of your Android app. It's a complete tool chain which supports modification of the binary application with more printouts. You are then able to repack, install, run and verify the result from logcat. ApkAnalyser also supports resource analysis, and you can decode XML, look up resource references and detect potential issues in your app.
+
+#### DexDumpSql
+Convert DEX content to SQLite database
+
+https://github.com/jakev/DexDumpSql
+
+#### Reverse AIDL tool
+https://github.com/opersys/raidl
+
+#### keystore-decryptor
+https://github.com/nelenkov/keystore-decryptor
 
 #### ART
 http://androidcracking.blogspot.jp/2012/04/android-reverse-tools-art.html
@@ -271,6 +340,8 @@ http://sse-blog.ec-spride.de/android/flowdroid/
 #### PScout
 http://pscout.csl.toronto.edu
 
+https://github.com/dweinstein/pscout
+
 #### decaf-platform
 http://code.google.com/p/decaf-platform/
 
@@ -291,3 +362,28 @@ http://pag.gatech.edu/chord
 
 #### STAMP
 https://sites.google.com/site/stampwebsite/
+
+#### IntentAnalysis
+Static dataflow analysis of Android apps to extract intent values and count intent constructor calls
+
+https://github.com/smee/IntentAnalysis
+
+#### PATDroid
+A Program Analysis Toolkit for Android
+
+https://github.com/mingyuan-xia/PATDroid
+
+#### smalisca
+Static Code Analysis for Smali files
+
+https://github.com/dorneanu/smalisca
+
+#### IccTA
+IccTA is an Inter-Component Communication based Taint Analysis tool. It based on FlowDroid and Epicc to perform inter-component (and also inter-app, thanks to ApkCombiner) privacy leaks in Android apps.
+
+https://github.com/lilicoding/soot-infoflow-android-iccta
+
+#### Amandroid
+Amandroid is a static analysis framework for Android apps.
+
+https://github.com/sireum/amandroid

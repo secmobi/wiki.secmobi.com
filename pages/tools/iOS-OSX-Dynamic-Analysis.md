@@ -1,6 +1,6 @@
 ## iOS/OSX Dynamic Analysis
 
-### Interactive with Devices
+### Interaction with Devices
 #### libimobiledevice
 A cross-platform protocol library to communicate with iOS devices
 
@@ -140,7 +140,7 @@ OS X tool for executing mouse- and keyboard-related actions from the shell
 
 https://github.com/BlueM/cliclick
 
-### System Resources
+### System Monitoring
 #### macfsevents
 Thread-based interface to file system observation primitives.
 
@@ -151,7 +151,7 @@ A File System Browser for iOS
 
 https://github.com/nst/FSWalker
 
-#### Network Analysis
+### Network Analysis
 #### Charles Proxy
 http://www.charlesproxy.com/
 
@@ -166,7 +166,7 @@ capture network data with tcpdump on Linux or iPhone/iPad to see the capture in 
 https://github.com/ADVTOOLS/ADVsock2pipe
 
 
-### Integrated Dynamic Analysis Tools/Systems
+### Sandbox
 #### Introspy-iOS
 Security profiling for blackbox iOS
 
