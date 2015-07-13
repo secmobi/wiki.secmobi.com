@@ -20,3 +20,6 @@ http://samdmarshall.com/re.html
 
 #### Mobile Security
 https://mobile-security.zeef.com/oguzhan.topgul
+
+#### android-security-awesome
+https://github.com/ashishb/android-security-awesome
