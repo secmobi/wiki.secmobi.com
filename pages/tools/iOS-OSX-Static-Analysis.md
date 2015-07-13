@@ -1,10 +1,15 @@
 ## iOS/OSX Static Analysis
 
-### File Formats
+### File Format Parsing
+#### otool
+
 #### MachOView
 http://sourceforge.net/projects/machoview/
 
 https://github.com/gdbinit/MachOView
+
+#### jtool
+http://www.newosxbook.com/files/jtool.tar
 
 #### optool
 Command Line Tool for interacting with MachO binaries on OSX/iOS
@@ -46,6 +51,8 @@ iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a 
 
 https://github.com/maciekish/iReSign
 
+#### HFSleuth
+http://www.newosxbook.com/files/hfsleuth.tar
 
 ### Disassembly
 #### class-dump
@@ -64,27 +71,27 @@ http://code.google.com/p/networkpx/wiki/class_dump_z
 #### IDA Pro
 http://www.hex-rays.com/products/ida/index.shtml
 
+##### IDA-IOS-Toolkit
+Collection of idapython scripts for dealing with the iOS kernelcache
+
+https://github.com/stefanesser/IDA-IOS-Toolkit
+
+##### objc-helper-plugin-ida
+Simplifies working with Objective-C binaries in IDA Pro
+
+https://github.com/zynamics/objc-helper-plugin-ida
+
 #### Hopper
 http://hopperapp.com/
 
 ### Decompiling
-#### IDA Pro
+#### Hex-rays Decompiler
 http://www.hex-rays.com/products/ida/index.shtml
 
 #### Hopper
 http://hopperapp.com/
 
 ### Others
-#### IDA-IOS-Toolkit
-Collection of idapython scripts for dealing with the iOS kernelcache
-
-https://github.com/stefanesser/IDA-IOS-Toolkit
-
-#### objc-helper-plugin-ida
-Simplifies working with Objective-C binaries in IDA Pro
-
-https://github.com/zynamics/objc-helper-plugin-ida
-
 #### the-backdoor-factory
 Patch PE, ELF, Mach-O binaries with shellcode
 

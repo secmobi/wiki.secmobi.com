@@ -48,6 +48,8 @@ Android Explorations: http://nelenkov.blogspot.com/
 
 Mobile Malware Detection: http://symbmalwaredet.blogspot.com
 
+OSX and iOS Internals: http://www.newosxbook.com/index.php?page=notes
+
 ### Chinese Blogs
 i'Claud: http://www.claudxiao.net
 

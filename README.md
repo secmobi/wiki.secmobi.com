@@ -24,12 +24,12 @@ Except for this, there're some [other mobile security wikis](https://github.com/
 * [iOS/OSX Apps and Utilities for Security](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-Apps-and-Utilities-for-Security.md)
 * [Other Platforms](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Other-Platforms.md)
 #### Malware
-* [Android Malware List]()
+* [Android Malware List](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/malware/Android-Malware-List.md)
 * [iOS Malware List]()
 * [OSX Malware List]()
 * [Symbian Malware List]()
 #### Vulnerabilities
-* [Android Vulnerability List]()
+* [Android Vulnerability List](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/vulnerabilities/Android-Vulnerability-List.md)
 * [iOS Vulnerability List]()
 #### Publications
 * [Books](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Books.md)
@@ -46,12 +46,13 @@ Except for this, there're some [other mobile security wikis](https://github.com/
 * [Companies](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/people/Companies.md)
 
 ### Maintainer
-Claud Xiao <secmobi@gmail.com> [@claud\_xiao](https://twitter.com/claud_xiao)
+Claud Xiao \<<secmobi@gmail.com>\> ([@claud\_xiao](https://twitter.com/claud_xiao))
 
 ### Copyleft
 This project is "unlicensed" or said in public domain. You can use it totally free.
 
 However, if you think it may be useful for you or others, please consider:
+
 * writing a tweet to introduce it
 * referring it in your presentation or paper
 * [donating by PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6HY4ZSHWNPY3S&lc=US&item_name=SecMobi&item_number=secmobi%2dwiki&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) in price of a cup of coffee
@@ -59,6 +60,7 @@ However, if you think it may be useful for you or others, please consider:
 
 ### Contribute
 It's greatly appreciated if you can help to improve this wiki in either way of:
+
 * fork and edit it in Github, then request a pull: [Github Collaborating](https://help.github.com/categories/collaborating/)
 * create an issue [here](https://github.com/secmobi/wiki.secmobi.com/issues)
 * send an email to <secmobi@gmail.com>
