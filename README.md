@@ -54,5 +54,17 @@ Author: Claud Xiao
 
 Email: secmobi@gmail.com
 
+Twitter: [@claud\_xiao](https://twitter.com/)
+
+### Copyright
+This project is "unlicensed" or said in public domain. You can use it totally free.
+
+If you think it may be useful for you or others, please consider:
+
+* Post a tweet to tell your friends
+* Refer it in your presentations or papers
+* [Donate by PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6HY4ZSHWNPY3S&lc=US&item_name=SecMobi&item_number=secmobi%2dwiki&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) in price of a cup of coffee
+* Send me license or trial opportunity of comercial security tools
+
 ### Acknowledgements
 Thanks dangqingdani, romangol, mindmac for their contribution to the previous version of this wiki.
