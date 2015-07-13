@@ -1,5 +1,10 @@
 ## Industrial Conferences
 
+Here're some good collections of industrial conferences:
+
+* ConCollector: http://cc.thinkst.com/conference/
+* HelpNet Security Events: http://www.net-security.org/conferences.php
+
 BlackHat: http://www.blackhat.com/
 
 DefCon: http://www.defcon.org/

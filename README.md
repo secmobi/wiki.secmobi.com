@@ -36,9 +36,10 @@ Except for this, there're some [other mobile security wikis](https://github.com/
 
 #### Publications
 * [Books](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Books.md)
-* [Papers](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Papers.md)
-* [Presentations](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Presentations.md)
+* [Courses](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Courses.md)
 * [Tutorials](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Tutorials.md)
+* [Presentations](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Presentations.md)
+* [Papers](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Papers.md)
 * [Whitepapers](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/publications/Whitepapers.md)
 
 #### Progresses
