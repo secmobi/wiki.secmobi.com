@@ -1,4 +1,4 @@
-## iOS Applications and Native Utilities
+## iOS/OSX Apps and Utilities for Security
 
 #### cydia
 #### UDIDFaker

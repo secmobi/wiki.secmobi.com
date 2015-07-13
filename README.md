@@ -1,8 +1,10 @@
 ## The SecMobi Wiki
 
-The SecMobi Wiki has been moved here now. You can still use <http://wiki.secmobi.com> to visit it. 
+The SecMobi Wiki has been moved here now. You can keep use <http://wiki.secmobi.com> to visit it. 
 
-Find more [other collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/Other-Collections-on-Mobile-Security-Resources.md). 
+There're some [other great collections on mobile security resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/Other-Collections-on-Mobile-Security-Resources.md). 
+
+[How to make your contribution](https://github.com/secmobi/wiki.secmobi.com/blob/master/CONTRIBUTING.md)
 
 ### Tools and Resources
 * [Android Static Analysis](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Android-Static-Analysis.md)
@@ -14,8 +16,6 @@ Find more [other collections on mobile security resources](https://github.com/se
 * [Android App Protection](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Android-App-Protection.md)
 * [Android Forensics](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Android-Forensics.md)
 * [Android Apps for Security](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Android-Apps-for-Security.md)
-
-
 * [iOS/OSX Static Analysis](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-Static-Analysis.md)
 * [iOS/OSX Dynamic Analysis](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-Dynamic-Analysis.md)
 * [iOS/OSX System Resources](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-System-Resources.md)
@@ -24,7 +24,6 @@ Find more [other collections on mobile security resources](https://github.com/se
 * [iOS/OSX App Protection](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-App-Protection.md)
 * [iOS/OSX Forensics](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-Forensics.md)
 * [iOS/OSX Apps and Utilities for Security](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/iOS-OSX-Apps-and-Utilities-for-Security.md)
-
 * [Other Platforms](https://github.com/secmobi/wiki.secmobi.com/blob/master/pages/tools/Other-Platforms.md)
 
 ### Publications
@@ -51,6 +50,9 @@ Find more [other collections on mobile security resources](https://github.com/se
 ### Malware
 
 ### About The SecMobi Wiki
-* [Make your contributions](https://github.com/secmobi/wiki.secmobi.com/blob/master/CONTRIBUTING.md)
-* [Acknowledgements](https://github.com/secmobi/wiki.secmobi.com/blob/master/ACKNOWLEDGEMENTS.md)
+Author: Claud Xiao 
 
+Email: secmobi@gmail.com
+
+### Acknowledgements
+Thanks dangqingdani, romangol, mindmac for their contribution to the previous version of this wiki.

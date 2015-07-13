@@ -1,4 +1,4 @@
-## Android Static Analysis Tool
+## Android Static Analysis
 
 ### Dalvik Disassembling and Bytecode Manipulation
 #### smali/baksmali

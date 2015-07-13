@@ -6,7 +6,9 @@ Appie is a software package that has been pre-configured to function as an Andro
 http://manifestsecurity.com/appie/
 #### dexter
 http://dexter.dexlabs.org/
+
 https://dexter.bluebox.com
+
 #### Santoku
 https://santoku-linux.com
 
@@ -21,6 +23,7 @@ https://appsec-labs.com/AppUse
 
 #### ARE
 https://redmine.honeynet.org/projects/are/wiki
+
 #### MobiSec
 http://sourceforge.net/projects/mobisec/files/
 
@@ -44,14 +47,17 @@ License: LGPL
 
 #### aikinci / androguard
 A dockerized androguard installation
+
 https://github.com/aikinci/androguard
 
 #### dockerfile-androguard
 docker file for use with androguard python android app analysis tool
+
 https://github.com/dweinstein/dockerfile-androguard
 
 #### docker-androguard
 A dockerized androguard installation
+
 https://github.com/adepasquale/docker-androguard
 
 #### APKinspector
@@ -62,6 +68,7 @@ https://github.com/honeynet/apkinspector
 The goal of this project is to aide analysts and reverse engineers to visualize compiled Android packages and their corresponding DEX code. The primary focus of this project is to provide a visualization layer that’s typically missing in existing Android reverse engineering tools, as well as to create a unified platform that combines several existing Android reverse engineering tools into a single unified view and context.
 
 License: GPL v2
+
 #### BackTrack Linux
 http://www.backtrack-linux.org
 

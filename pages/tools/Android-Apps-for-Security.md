@@ -1,4 +1,4 @@
-## Android Applications for Security
+## Android Apps for Security
 
 #### The Guardian Project
 https://guardianproject.info

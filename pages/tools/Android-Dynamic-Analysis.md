@@ -1,5 +1,4 @@
-## Android Dynamic Analysis Tools
-
+## Android Dynamic Analysis
 ### Interaction with Devices
 #### androidtool-mac
 One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac
@@ -50,7 +49,6 @@ https://github.com/swdunlop/AndBug
 
 AndBug is a debugger targeting the Android platform's Dalvik virtual machine intended for reverse engineers and developers. It uses the same interfaces as Android's Eclipse debugging plugin, the Java Debug Wire Protocol (JDWP) and Dalvik Debug Monitor (DDM) to permit users to hook Dalvik methods, examine process state, and even perform changes.
 
-
 #### android_debug
 https://github.com/wuntee/android_debug
 
@@ -78,7 +76,6 @@ Web App and Database for DroidBox
 https://github.com/bbokorney/db-wa
 
 ### Injection, Hooking and Instrumentation
-
 #### Xposed
 http://forum.xda-developers.com/showthread.php?t=1574401
 
@@ -256,7 +253,6 @@ https://github.com/VT-Magnum-Research/antimalware
 https://code.google.com/p/decaf-platform/wiki/DroidScope
 
 ### Environment Faker
-
 #### RootCloak Plus (Cydia)
 http://devadvance.com/rootcloakplus/
 
@@ -274,7 +270,6 @@ Open source module for Xposed Framework that hides root from specific apps
 https://github.com/devadvance/rootcloak
 
 ### Network Analysis
-
 #### tcpdump
 http://www.tcpdump.org
 
@@ -314,7 +309,6 @@ https://github.com/wuntee/androidAuditTools/blob/master/bin/fsdiff.rb
 https://github.com/wuntee/otertool
 
 ### Memory Analysis
-
 #### LiME
 LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android.
 

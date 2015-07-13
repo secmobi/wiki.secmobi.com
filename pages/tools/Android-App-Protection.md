@@ -1,7 +1,6 @@
-## Android Cracking and Protection Tools
+## Android App Protection
 
-### Packing, Encryption and Obfuscation
-
+### Packers, Code Encryption and Obfuscation
 #### ProGuard
 http://proguard.sourceforge.net
 
@@ -41,7 +40,7 @@ Add the encrypted flag to an APK file
 
 https://github.com/MindMac/Android-Fake-Encryption
 
-### Unpacking and De-obfuscation
+### Unpacking and Deobfuscation
 #### ApkDetecter
 android apk查壳工具源代码
 
