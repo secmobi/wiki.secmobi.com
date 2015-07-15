@@ -52,6 +52,8 @@ OSX and iOS Internals: http://www.newosxbook.com/index.php?page=notes
 
 Zdziarski's Blog of Things: http://www.zdziarski.com/blog/
 
+qwertyoruiop's blog: http://blog.qwertyoruiop.com/
+
 ### Chinese Blogs
 i'Claud: http://www.claudxiao.net
 
