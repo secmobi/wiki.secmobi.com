@@ -18,6 +18,7 @@
 * Coursera Computer Security https://www.coursera.org/course/security
 * Coursera - Software Security https://www.coursera.org/course/softwaresec
 * Coursera - Malicious Software and its Underground Economy https://www.coursera.org/course/malsoftware
+* CSCI 4968 - Modern Binary Exploitation http://security.cs.rpi.edu/courses/binexp-spring2015/
 * OpenSecurityTraining.info
 * http://opensecuritytraining.info/AndroidForensics.html
 * http://opensecuritytraining.info/IntroARM.html
