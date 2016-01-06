@@ -94,3 +94,7 @@ Android手机病毒分析及研究: http://blog.csdn.net/androidsecurity
 平静的小海洋: http://blog.csdn.net/l173864930
 
 360移动安全：http://blogs.360.cn/360mobile/
+
+IT Dreamer : http://burningcodes.net/
+
+安卓安全中文站 : http://www.droidsec.cn/
