@@ -1,7 +1,17 @@
 ## Books
 
+#### Hacking Android
+by Srinivasa Rao Kotipalli, Mohammed A. Imran (2016)
+
+http://www.amazon.com/dp/1785883143/
+
 #### Mobile Forensic Investigations: A Guide to Evidence Collection, Analysis, and Presentation
-by Lee Reiber  (2016)
+by Lee Reiber (2016)
+
+http://www.amazon.com/dp/0071843639/
+
+#### Mobile Forensic Investigations: A Guide to Evidence Collection, Analysis, and Presentation
+by Lee Reiber (2016)
 
 http://www.amazon.com/dp/0071843639/
 
