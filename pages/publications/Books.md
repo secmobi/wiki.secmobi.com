@@ -1,9 +1,44 @@
 ## Books
 
+#### Mobile Forensic Investigations: A Guide to Evidence Collection, Analysis, and Presentation
+by Lee Reiber  (2016)
+
+http://www.amazon.com/dp/0071843639/
+
+#### iOS Forensics Cookbook
+by Bhanu Birani, Mayank Birani (2016)
+
+http://www.amazon.com/dp/1783988460/
+
+#### Learning iOS Penetration Testing Paperback
+by Swaroop Yermalkar (2016)
+
+http://www.amazon.com/dp/1785883259/
+
+#### iOS Application Security: The Definitive Guide for Hackers and Developers
+by David Thiel (2016)
+
+http://www.amazon.com/dp/159327601X/
+
+#### Learning iOS Forensics Paperback
+by Mattia Epifani, Pasquale Stirparo (2015)
+
+http://www.amazon.com/dp/1783553510/
+
 #### Learning Android Forensics
 by Rohit Tamma, Donnie Tindall (2015)
 
 http://www.amazon.com/dp/1782174575/
+
+#### Learning iOS Security Paperback
+by Allister Banks, Charles S. Edge  (2015)
+
+http://www.amazon.com/dp/1783551747/
+
+#### Automated Security Analysis of Android and iOS Applications with Mobile Security Framework
+by Henry Dalziel, Ajin Abraham (2015)
+
+http://www.amazon.com/dp/0128047186/
 
 #### Exploring SE for Android
 by William Confer and William Roberts (2015)
@@ -44,6 +79,11 @@ http://newandroidbook.com/
 by Nikolay Elenkov (2014)
 
 http://www.amazon.com/dp/1593275811/
+
+#### Practical Mobile Forensics Paperback
+by Satish Bommisetty, Rohit Tamma, Heather Mahalik (2014)
+
+http://www.amazon.com/dp/1783288310/
 
 #### Android Hacker's Handbook
 by Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva, Stephen A. Ridley and Georg Wicherski (2014)
