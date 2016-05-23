@@ -4,7 +4,9 @@
 
 [fG!](https://twitter.com/osxreverser) maintained a great [list of iOS/OSX security papers](https://reverse.put.as/papers/) at industrial conferences. Besides of that, here are some iOS security papers from academia conferences:
 
-* Mihai Bucicoiu et al. XiOS: *Extended Application Sandboxing on iOS*. AsiaCCS 2015 ([PDF](https://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/XiOS.pdf))
+* Xiaolong Bai et al. *Staying Secure and Unprepared: Understanding and Mitigating the Security Risks of Apple ZeroConf*. Oakland 2016 ([PDF](http://www.ieee-security.org/TC/SP2016/papers/0824a655.pdf))
+* Kai Chen et al. *Following Devil's Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS*. Oakland 2016 ([PDF](http://www.ieee-security.org/TC/SP2016/papers/0824a357.pdf))
+* Mihai Bucicoiu et al. *XiOS: Extended Application Sandboxing on iOS*. AsiaCCS 2015 ([PDF](https://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/XiOS.pdf))
 * Luis Go ́mez-Miralles et al. *Lockup: A software tool to harden iOS by disabling default lockdown services*. 3PGCIC 2015 ([PDF](http://www.pope.es/files/W3PGCIC-2015-Pope.pdf) [Slides](http://www.pope.es/files/W3PGCIC-2015-Pope_Slides.pdf))
 * Zhui Deng et al. *iRiS: Vetting Private API Abuse in iOS Applications*. CCS 2015 ([PDF](http://www.cse.buffalo.edu/~mohaisen/teaching/cse709/f15/docs/deng-ccs15.pdf))
 * Luyi Xing et al. *Cracking App Isolation on Apple: Unauthorized Cross-App Resource Access on MAC OS X and iOS*. CCS 2015 ([PDF](http://www.informatics.indiana.edu/xw7/papers/xara-ready.pdf))
@@ -21,3 +23,6 @@
 * Martin Szydlowski et al. *Challenges for dynamic analysis of iOS applications*. iNetSec 2011 ([PDF](https://www.cs.ucsb.edu/~vigna/publications/2011_iNetSec_iOSApps.pdf))
 * Methusela Cebrian Ferrer. *Cyber attacks: how are Mac OS X and iOS users playing the role?* VirusBulletin 2011
 * Manuel Egele et al. *PiOS: Detecting Privacy Leaks in iOS Applications*. NDSS 2011 ([PDF](http://www.seclab.tuwien.ac.at/papers/egele-ndss11.pdf))
+
+#### Android Security
+Jacob Soo maintained an awesome list of Android security papers at [droidsec](http://www.droidsec.org/wiki/#whitepapers).
