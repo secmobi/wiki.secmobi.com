@@ -10,17 +10,12 @@ by Lee Reiber (2016)
 
 http://www.amazon.com/dp/0071843639/
 
-#### Mobile Forensic Investigations: A Guide to Evidence Collection, Analysis, and Presentation
-by Lee Reiber (2016)
-
-http://www.amazon.com/dp/0071843639/
-
 #### iOS Forensics Cookbook
 by Bhanu Birani, Mayank Birani (2016)
 
 http://www.amazon.com/dp/1783988460/
 
-#### Learning iOS Penetration Testing Paperback
+#### Learning iOS Penetration Testing
 by Swaroop Yermalkar (2016)
 
 http://www.amazon.com/dp/1785883259/
@@ -30,7 +25,7 @@ by David Thiel (2016)
 
 http://www.amazon.com/dp/159327601X/
 
-#### Learning iOS Forensics Paperback
+#### Learning iOS Forensics
 by Mattia Epifani, Pasquale Stirparo (2015)
 
 http://www.amazon.com/dp/1783553510/
@@ -40,7 +35,7 @@ by Rohit Tamma, Donnie Tindall (2015)
 
 http://www.amazon.com/dp/1782174575/
 
-#### Learning iOS Security Paperback
+#### Learning iOS Security
 by Allister Banks, Charles S. Edge  (2015)
 
 http://www.amazon.com/dp/1783551747/
