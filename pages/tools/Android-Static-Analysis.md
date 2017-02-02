@@ -178,6 +178,11 @@ Soot is a Java optimization framework. It provides four intermediate representat
 
 Soot can be used as a stand alone tool to optimize or inspect class files, as well as a framework to develop optimizations or transformations on Java bytecode.
 
+#### JAADAS
+https://github.com/flankerhqd/JAADAS
+
+JAADAS is a tool written in Java and Scala with the power of Soot to provide both interprocedure and intraprocedure static analysis for android applications. Its features include API misuse analysis, local-denial-of-service (intent crash) analysis, inter-procedure style taint flow analysis (from intent to sensitive API, i.e. getting a parcelable from intent, and use it to start activity).
+
 #### dava
 http://www.sable.mcgill.ca/dava/
 
